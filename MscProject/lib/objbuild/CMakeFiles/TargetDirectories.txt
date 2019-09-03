@@ -1,0 +1,4 @@
+D:/WorkFile/MscProTest/ConsoleApplication2/lib/objbuild/CMakeFiles/tinyobjloader.dir
+D:/WorkFile/MscProTest/ConsoleApplication2/lib/objbuild/CMakeFiles/INSTALL.dir
+D:/WorkFile/MscProTest/ConsoleApplication2/lib/objbuild/CMakeFiles/ALL_BUILD.dir
+D:/WorkFile/MscProTest/ConsoleApplication2/lib/objbuild/CMakeFiles/ZERO_CHECK.dir

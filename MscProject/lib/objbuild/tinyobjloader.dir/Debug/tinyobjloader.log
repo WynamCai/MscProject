@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/WorkFile/MscProTest/ConsoleApplication2/include/tinyobjloader-master/CMakeLists.txt
+  CMake does not need to re-run because D:/WorkFile/MscProTest/ConsoleApplication2/lib/objbuild/CMakeFiles/generate.stamp is up-to-date.
+  tiny_obj_loader.cc
+  tinyobjloader.vcxproj -> D:\WorkFile\MscProTest\ConsoleApplication2\lib\objbuild\Debug\tinyobjloader.lib

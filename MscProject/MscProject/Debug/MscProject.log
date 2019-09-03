@@ -1,0 +1,11 @@
+﻿  MscProject.cpp
+d:\mscproject\mscproject\mscproject\scatteringshader.h(62): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\mscproject\mscproject\mscproject\mscproject.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\mscproject\mscproject\mscproject\mscproject.cpp(64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\mscproject\mscproject\mscproject\mscproject.cpp(68): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\mscproject\mscproject\mscproject\mscproject.cpp(69): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\mscproject\mscproject\mscproject\mscproject.cpp(71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\mscproject\mscproject\mscproject\mscproject.cpp(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\mscproject\mscproject\mscproject\mscproject.cpp(79): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\mscproject\mscproject\mscproject\mscproject.cpp(164): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MscProject.vcxproj -> D:\MscProject\MscProject\Debug\MscProject.exe

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\WorkFile\MscProTest\ConsoleApplication2\lib\objbuild\CMakeFiles\f071c7996284e421bfe91775d6d33b57\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{671A00A3-863E-3900-9E02-C39C5D61AA24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
